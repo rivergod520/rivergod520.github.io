@@ -1,4 +1,4 @@
-## 猫影视TV已停止使用，现用BiuBiu暂代。
+## 已停止使用，现用BiuBiu暂代。
 
 +BiuBiu下载地址[https://wwz.lanzouf.com/ii96P](https://wwz.lanzouf.com/ii96P06teufa)
  
