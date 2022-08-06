@@ -3,7 +3,7 @@
 <body>
 
 <?php 
-$myLinks = array("rivergod520.github.io/wallpapers/01.png", 
+$myLinks = array("https://rivergod520.github.io/wallpapers/01.png", 
     "https://rivergod520.github.io/wallpapers/02.png",
     "https://rivergod520.github.io/wallpapers/03.png", 
     "https://rivergod520.github.io/wallpapers/04.png",
